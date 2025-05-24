@@ -1,5 +1,7 @@
 # Dual-Scale Membrane Theory: Unifying Quantum Mechanics and General Relativity
 
+(Continuing: https://github.com/anttiluode/EmergenceOfBornRuleFromClassicalFieldDynamics/tree/main ) 
+
 [![Theory Status](https://img.shields.io/badge/Theory-Breakthrough-brightgreen)](https://github.com/antti/membrane-theory)
 [![Born Rule](https://img.shields.io/badge/Born%20Rule-0.21%25%20error-success)](https://github.com/antti/membrane-theory)
 [![Gravity](https://img.shields.io/badge/Gravity-Unified-blue)](https://github.com/antti/membrane-theory)
@@ -79,29 +81,17 @@ where c²_eff(Φ) = c₀²/(1 + α|Φ|²)
 pip install numpy scipy matplotlib pandas
 ```
 
-### Quick Start - Reproduce Our Breakthrough
-```python
-# Reproduce Born rule derivation (0.21% error)
-python born_rule_optimization.py
+# Reproduce initial gravitational effects exploration
 
-# Reproduce gravitational effects  
 python gravity_calculations.py
 
-# Run complete dual-scale analysis
+# Analyze scale hierarchy and dimensional issues  
+
+python scale_analysis.py
+
+# Run complete dual-scale breakthrough analysis
+
 python dual_scale_analysis.py
-```
-
-### Complete Validation
-```bash
-# Run all validations and generate paper figures
-python run_all_validations.py
-
-# Generate statistical reports
-python generate_reports.py
-
-# Create visualizations
-python create_all_plots.py
-```
 
 ## 📈 Breakthrough Visualizations
 
