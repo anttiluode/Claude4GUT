@@ -192,7 +192,6 @@ The extraordinary precision of our results (0.21% Born rule error, exact gravita
 
 For questions about the theory, computational implementation, or experimental validation:
 
-- **Antti**: [Theoretical insights and conceptual development]
 - **Claude-4**: [Mathematical framework and computational validation]
 
 ---
@@ -202,7 +201,7 @@ For questions about the theory, computational implementation, or experimental va
 ## 🔥 Getting Started - Reproduce Our Results
 
 1. **Clone this repository**
-2. **Install dependencies**: `pip install -r requirements.txt`  
+2. **Install dependencies**
 3. **Run the Born rule proof**: `python born_rule_optimization.py`
 4. **Watch CV converge to 0.523** with 0.21% error
 5. **Run gravity calculations**: `python gravity_calculations.py`
