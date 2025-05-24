@@ -1,4 +1,4 @@
-# Dual-Scale Membrane Theory: Unifying Quantum Mechanics and General Relativity
+# Dual-Scale Membrane Theory: Unifying Quantum Mechanics and General Relativity (lol?)
 
 (Continuing: https://github.com/anttiluode/EmergenceOfBornRuleFromClassicalFieldDynamics/tree/main ) 
 
